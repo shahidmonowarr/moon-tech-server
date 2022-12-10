@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Mir Hussain",
+  "author": "",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
